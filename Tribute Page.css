@@ -1,0 +1,112 @@
+body
+{
+ 
+   background-image: url("bkg2.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+
+.img
+{
+    margin-left: 550px;
+    margin-right: 500px;
+    border-radius: 25px;
+    
+}
+
+.name
+{
+    margin-top: 30px;
+    margin-left: 600px;
+    margin-right: 500px;
+}
+
+.information
+{
+    margin-left: 600px;
+    margin-right: 480px;
+}
+
+.p1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-weight: bold;
+    border-style: solid;
+    border-color: black;
+
+    border-radius: 10px;
+      
+    
+    
+}
+
+.Abouthim
+{
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-top: 50px;
+}
+
+.h21
+{
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-top: 50px;
+}
+
+
+.p2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 500px;
+    margin-right:500px;
+    font-weight: bold;
+    border-style: solid;
+    border-color: black;
+    
+
+    border-radius: 10px;
+}
+
+
+.h22
+{
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-top: 50px;
+}
+
+
+.p3
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-weight: bold;
+    border-style: solid;
+    border-color: black;
+
+    border-radius: 10px;
+
+}
+
+.p1:hover
+{
+    transform: scale(1.2);
+    background-color: purple;
+}
+
+.p2:hover
+{
+    transform: scale(1.2);
+    background-color: greenyellow;
+}
+
+.p3:hover
+{
+    transform: scale(1.2);
+    background-color:indianred;
+}
