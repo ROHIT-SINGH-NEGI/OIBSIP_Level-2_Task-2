@@ -1,4 +1,4 @@
-# OIBSIP_Level-2_Task-2
+# oibsip_taskno.2
 
 The details are as follows:
 Task-The task was to create a tribute page using html css and javascript
